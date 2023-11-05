@@ -70,27 +70,33 @@ img{
     height: 80px;
     background-color: #222;
 }
-.icons {
+.left-icons {
     color: white;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
 }
+.middle-icons {
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
 .icons-info {
     font-size: 1.5em;
-    margin: 10px;
+    margin: 15px;
 }
 .arrow {
     font-size: 0.8em;
 
 }
 p {
-    color: white;
-    margin: 0 15;
+    color: black;
+    margin: 0 11px;
 }
 .words-row{
     display: flex;
     align-items: center;
-
 }
-    
+   
